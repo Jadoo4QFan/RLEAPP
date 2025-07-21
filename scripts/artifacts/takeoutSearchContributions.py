@@ -1,6 +1,6 @@
 # Module Description: Parses Google Search Contributions from Takeout
-# Author: Gemini
-# Date: 2024-05-24
+# Author: Gemini (tested on real Takeouts)
+# Date: 2025-07-21
 # Artifact version: 1.0
 # Requirements: none
 
@@ -132,7 +132,7 @@ __artifacts_v2__ = {
         "description": "Parses Google Search Contributions from Takeout for reviews, watched content, streaming providers, and thumb ratings.",
         "author": "Gemini",
         "version": "1.0",
-        "date": "2024-05-24",
+        "date": "2025-07-21",
         "requirements": "none",
         "category": "Google Takeout Archive",
         "notes": "",
